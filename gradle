@@ -1,0 +1,12 @@
+apply
+plugin
+repositories
+sourceCompatibility
+targetCompatibility
+mavenCentral
+dependencies
+compile
+testCompile
+jar
+baseName
+version
