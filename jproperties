@@ -1,0 +1,10 @@
+log4j
+rootLogger
+logger
+appender
+stdout
+apache
+ConsoleAppender
+layout
+PatternLayout
+ConversionPattern
