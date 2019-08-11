@@ -1,7 +1,20 @@
+#define
+bitree_preorder
+bitree_inorder
+bitree_postorder
+#endif
+#ifndef
+BiTree
+BiTreeNode
+BiTreeNode_
+BiTree_
+boundary condition
 break
 case
 char
+const void *
 continue
+ctype
 default
 define
 else
@@ -10,6 +23,9 @@ getchar
 gets
 include
 int
+isalnum
+isalpha
+isdigit
 main
 malloc
 math
@@ -18,12 +34,15 @@ putchar
 puts
 return
 scanf
+stdio.h
 stdlib
 strcat
 strcmp
 strlen
 struct
 switch
+system
 unsigned
 void
+void *
 while

@@ -1,0 +1,19 @@
+--cached
+revert
+--hard
+--staged
+HEAD
+blame
+branch
+chechout
+diff
+fetch
+merge
+pull
+push
+reflog
+reset
+show-ref
+stage
+stash pop list apply
+tag

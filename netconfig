@@ -1,0 +1,10 @@
+BOOTPROTO
+GATEWAY
+IPADDR
+IPV6INIT
+NETMASK
+nameserver
+ONBOOT
+dhcp
+dhcp
+static

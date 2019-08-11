@@ -1,0 +1,14 @@
+3306
+show_sql
+Driver
+MySQLDialect
+connection
+dialect
+driver_class
+hibernate
+jdbc
+localhost
+mysql
+password
+url
+username

@@ -1,38 +1,74 @@
+# BUG FIXED:
 # BUG FOUND:
 # ROOT OF CAUSE:
+directory
+# TODO:
+# functions are not executed in subshells
+# hence use return instead of exit in functions
+# move snippet to 
+# moved snippet from 
 # to be implemented
 # to be refactored
-# TODO:
+# unmatched quotes
+// BUG FIXED:
 // BUG FOUND:
+// BUG FOUND: some information in sample source code must be corrected!
 // DEPENDENCY INJECTION
+// FIXED WRONG FILE BUG
+// INSTANCE MISSPELLED AS CLASS BUG
+// NON-ASCII BUG
 // ROOT OF CAUSE:
+// SHOULD BE:
 // TODO:
+// TRAILING COMMA BUG
+// WRONG CASE BUG
+// bottom-up
+// import statement should end with a class, while a package is used
+// start tag and end tag don't match:
 // to be implemented
 // to be refactored
+// top-down with memorization
+// wrong package in import statement
 BUG FOUND:
+CREATE DATABASE mybatis DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci;
 Dependency Injection
 IMPORTANT
 NOTE
 ROOT OF CAUSE:
+SUBTLE BUG:
 TODO
 bug found
 build
 class
+comment
 concatenate
 cont
 debug
+dynamic programming
 equivalent
+expression
 function
+haystack
 instance
 interface implement implementation
+iterate
+message
 method
+namespace
+needle
 next
 parameter argument
 quit
+recursion
+recursively
 refactored
 run
-step into over out
+step into     step over    step out
+step up
+stop at
+stop in
 to be implemented
 to be refactored
 unchecked
 variable
+workspace

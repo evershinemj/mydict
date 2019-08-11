@@ -1,0 +1,5 @@
+hamcrest
+MatcherAssert
+assertThat
+Matchers
+equalTo

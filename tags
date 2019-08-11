@@ -1,0 +1,139 @@
+	Session.vim	/^inoremap <silent>  <Left>$/;"	m
+S	Session.vim	/^imap S <Plug>ISurround$/;"	m
+s	Session.vim	/^imap s <Plug>Isurround$/;"	m
+	Session.vim	/^nmap  3b$/;"	m
+	Session.vim	/^vmap  3b$/;"	m
+	Session.vim	/^map   W$/;"	m
+	Session.vim	/^inoremap <silent>  <Right>$/;"	m
+	Session.vim	/^nmap  3w$/;"	m
+	Session.vim	/^vmap  3w$/;"	m
+	Session.vim	/^imap  <Plug>Isurround$/;"	m
+</bo	Session.vim	/^inoremap <\/bo <\/body>$/;"	m
+</he	Session.vim	/^inoremap <\/he <\/head>$/;"	m
+</ht	Session.vim	/^inoremap <\/ht <\/html>$/;"	m
+</ti	Session.vim	/^inoremap <\/ti <\/title>$/;"	m
+<bo	Session.vim	/^inoremap <bo <body><\/body>F>a$/;"	m
+<he	Session.vim	/^inoremap <he <head><\/head>F>a$/;"	m
+<ht	Session.vim	/^inoremap <ht <html><\/html>F>a$/;"	m
+<ti	Session.vim	/^inoremap <ti <title><\/title>F>a$/;"	m
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+##	Session.vim	/^inoremap ## ############################################################$/;"	m
+#in	Session.vim	/^inoremap #in #include<stdio.h>$/;"	m
+%%	Session.vim	/^cnoremap <expr> %% getcmdtype() == ':' ? expand('%:h').'\/' : '%%'$/;"	m
+(	Session.vim	/^inoremap ( ()i$/;"	m
+,C	Session.vim	/^nnoremap ,C qc~)q$/;"	m
+,br	Session.vim	/^map ,br :tabedit ~\/.bashrc$/;"	m
+,cc	Session.vim	/^noremap <silent> ,cc :cclose$/;"	m
+,cf	Session.vim	/^noremap <silent> ,cf :cfirst$/;"	m
+,cl	Session.vim	/^noremap <silent> ,cl :clast$/;"	m
+,cn	Session.vim	/^noremap <silent> ,cn :cnext$/;"	m
+,co	Session.vim	/^noremap <silent> ,co :copen$/;"	m
+,cp	Session.vim	/^noremap <silent> ,cp :cprevious$/;"	m
+,curl	Session.vim	/^noremap ,curl ocurl $url --silent$/;"	m
+,gq	Session.vim	/^nmap ,gq :%s\/\\s\\+\/ \/g$/;"	m
+,gq	Session.vim	/^vmap ,gq :s\/\\s\\+\/ \/g$/;"	m
+,img	Session.vim	/^noremap ,img oegrep -o '<img [^>]*src=[^>]*>'$/;"	m
+,mc	Session.vim	/^nmap ,mc !!boxes -f $BOXES_SYS_CONF -d pound-cmt$/;"	m
+,mc	Session.vim	/^vmap ,mc !boxes -f $BOXES_SYS_CONF -d pound-cmt$/;"	m
+,mo	Session.vim	/^nmap ,mo !!boxes -f $BOXES_SYS_CONF -d mouse$/;"	m
+,mo	Session.vim	/^vmap ,mo !boxes -f $BOXES_SYS_CONF -d mouse$/;"	m
+,rmo	Session.vim	/^nmap ,rmo !!boxes -f $BOXES_SYS_CONF -d mouse -r$/;"	m
+,rmo	Session.vim	/^vmap ,rmo !boxes -f $BOXES_SYS_CONF -d mouse -r$/;"	m
+,rsp	Session.vim	/^nmap ,rsp !!boxes -f $BOXES_SYS_CONF -d spring -r$/;"	m
+,rsp	Session.vim	/^vmap ,rsp !boxes -f $BOXES_SYS_CONF -d spring -r$/;"	m
+,rsu	Session.vim	/^nmap ,rsu !!boxes -f $BOXES_SYS_CONF -d sunset -r$/;"	m
+,rsu	Session.vim	/^vmap ,rsu !boxes -f $BOXES_SYS_CONF -d sunset -r$/;"	m
+,ruc	Session.vim	/^nmap ,ruc !!boxes -f $BOXES_SYS_CONF -d unicornsay -r$/;"	m
+,ruc	Session.vim	/^vmap ,ruc !boxes -f $BOXES_SYS_CONF -d unicornsay -r$/;"	m
+,sed	Session.vim	/^noremap ,sed osed "s,^\/,$baseurl\/"$/;"	m
+,sh	Session.vim	/^noremap ,sh i#!\/bin\/bash$/;"	m
+,sp	Session.vim	/^nmap ,sp !!boxes -f $BOXES_SYS_CONF -d spring$/;"	m
+,sp	Session.vim	/^vmap ,sp !boxes -f $BOXES_SYS_CONF -d spring$/;"	m
+,su	Session.vim	/^nmap ,su !!boxes -f $BOXES_SYS_CONF -d sunset$/;"	m
+,su	Session.vim	/^vmap ,su !boxes -f $BOXES_SYS_CONF -d sunset$/;"	m
+,uc	Session.vim	/^nmap ,uc !!boxes -f $BOXES_SYS_CONF -d unicornsay$/;"	m
+,uc	Session.vim	/^vmap ,uc !boxes -f $BOXES_SYS_CONF -d unicornsay$/;"	m
+,url	Session.vim	/^noremap ,url osed 's\/img [^>]*src=\\"\\([^>]*?\\)\\"\/\\1'$/;"	m
+,xc	Session.vim	/^nmap ,xc !!boxes -f $BOXES_SYS_CONF -d pound-cmt -r$/;"	m
+,xc	Session.vim	/^vmap ,xc !boxes -f $BOXES_SYS_CONF -d pound-cmt -r$/;"	m
+,zsh	Session.vim	/^map ,zsh :tabedit $ZSH$/;"	m
+--	Session.vim	/^inoreabbr -- ---------------------------------------------------------$/;"	m
+//	Session.vim	/^cnoremap <expr> \/\/ getcmdtype() == '\/' ? '\\c' : '\/\/'$/;"	m
+/c	Session.vim	/^cnoremap <expr> \/c getcmdtype() == '\/' ? '\\c' : '\/c'$/;"	m
+/v	Session.vim	/^cnoremap <expr> \/v getcmdtype() == '\/' ? '\\v' : '\/v'$/;"	m
+0	Session.vim	/^normal! 0$/;"	m
+<Down>	Session.vim	/^map <Down> gj$/;"	m
+<F10>	Session.vim	/^nnoremap <silent> <F10> :!ctags -R$/;"	m
+<F1>	Session.vim	/^nnoremap <buffer> <F1> :he netrw-quickhelp$/;"	m
+<F2>	Session.vim	/^nnoremap <silent> <F2> Godate: :read !date$/;"	m
+<F3>	Session.vim	/^nnoremap <silent> <F3> :tabedit ~\/.vimrc$/;"	m
+<F4>	Session.vim	/^nnoremap <silent> <F4> :tabedit ~\/.vim\/plugin\/$/;"	m
+<F5>	Session.vim	/^nnoremap <silent> <F5> :tabedit ~\/.vim\/ftplugin\/$/;"	m
+<F7>	Session.vim	/^nnoremap <silent> <F7> $/;"	m
+<F7>	Session.vim	/^omap <F7> a{$/;"	m
+<F8>	Session.vim	/^nnoremap <silent> <F8> :TlistToggle$/;"	m
+<F9>	Session.vim	/^nnoremap <silent> <F9> =$/;"	m
+<Plug>CommentaryUndo	Session.vim	/^nmap <silent> <Plug>CommentaryUndo :echoerr "Change your <Plug>CommentaryUndo map to <Plug>Commentary<Plug>Commentary"$/;"	m
+<Plug>NetrwBrowseX	Session.vim	/^nnoremap <silent> <Plug>NetrwBrowseX :call netrw#BrowseX(netrw#GX(),netrw#CheckIfRemote(netrw#GX()))$/;"	m
+<Plug>NetrwBrowseXVis	Session.vim	/^vnoremap <silent> <Plug>NetrwBrowseXVis :call netrw#BrowseXVis()$/;"	m
+<Plug>SurroundRepeat	Session.vim	/^nnoremap <silent> <Plug>SurroundRepeat .$/;"	m
+<S-Down>	Session.vim	/^nnoremap <buffer> <silent> <S-Down> :Nexplore$/;"	m
+<S-Up>	Session.vim	/^nnoremap <buffer> <silent> <S-Up> :Pexplore$/;"	m
+<Up>	Session.vim	/^map <Up> gk$/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent>  <Plug>NetrwRefresh$/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent>  <Plug>NetrwServerEdit$/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent> $/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent> % <Plug>NetrwOpenFile$/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent> - <Plug>NetrwBrowseUpDir $/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent> <S-CR> <Plug>NetrwTreeSqueeze$/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent> C <Plug>NetrwSetChgwin$/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent> a <Plug>NetrwHide_a$/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent> cB <Plug>NetrwBadd_cB$/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent> cb <Plug>NetrwBadd_cb$/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent> cd <Plug>NetrwLcd$/;"	m
+<nowait>	Session.vim	/^nmap <buffer> <nowait> <silent> gb <Plug>NetrwBookHistHandler_gb$/;"	m
+SessionLoad	Session.vim	/^let SessionLoad = 1$/;"	v
+[	Session.vim	/^inoremap [ []i$/;"	m
+[%	Session.vim	/^vmap [% [%m'gv``$/;"	m
+[B	Session.vim	/^nnoremap <silent> [B :bfirst$/;"	m
+[b	Session.vim	/^nnoremap <silent> [b :bprevious$/;"	m
+\b	Session.vim	/^noremap \\b :tabedit ~\/.bash_profile$/;"	m
+\g	Session.vim	/^noremap \\g Bi${GREEN}Ea${NC}$/;"	m
+\n	Session.vim	/^noremap \\n :nohlsearch$/;"	m
+\p	Session.vim	/^noremap \\p :pwd$/;"	m
+\r	Session.vim	/^noremap \\r Bi${RED}Ea${NC}$/;"	m
+\s	Session.vim	/^noremap \\s :tabedit \/usr\/local\/src\/$/;"	m
+\z	Session.vim	/^noremap \\z :tabedit ~\/.zshrc$/;"	m
+]%	Session.vim	/^vmap ]% ]%m'gv``$/;"	m
+]B	Session.vim	/^nnoremap <silent> ]B :blast$/;"	m
+]b	Session.vim	/^nnoremap <silent> ]b :bnext$/;"	m
+_j	Session.vim	/^nmap _j :%call Justify('tw',4)$/;"	m
+_j	Session.vim	/^vmap _j :call Justify('tw',4)$/;"	m
+a%	Session.vim	/^vmap a% [%v]%$/;"	m
+cS	Session.vim	/^nmap cS <Plug>CSurround$/;"	m
+cs	Session.vim	/^nmap cs <Plug>Csurround$/;"	m
+ds	Session.vim	/^nmap ds <Plug>Dsurround$/;"	m
+gc	Session.vim	/^nmap gc <Plug>Commentary$/;"	m
+gc	Session.vim	/^omap gc <Plug>Commentary$/;"	m
+gcc	Session.vim	/^nmap gcc <Plug>CommentaryLine$/;"	m
+gcu	Session.vim	/^nmap gcu <Plug>Commentary<Plug>Commentary$/;"	m
+gx	Session.vim	/^nmap gx <Plug>NetrwBrowseX$/;"	m
+gx	Session.vim	/^vmap gx <Plug>NetrwBrowseXVis$/;"	m
+incs	Session.vim	/^map! incs incsearch$/;"	m
+s:cpo_save	Session.vim	/^let s:cpo_save=&cpo$/;"	v
+s:l	Session.vim	/^let s:l = 2 - ((1 * winheight(0) + 18) \/ 37)$/;"	v
+s:l	Session.vim	/^let s:l = 32 - ((13 * winheight(0) + 18) \/ 37)$/;"	v
+s:so_save	Session.vim	/^let s:so_save = &so | let s:siso_save = &siso | set so=0 siso=0$/;"	v
+s:sx	Session.vim	/^let s:sx = expand("<sfile>:p:r")."x.vim"$/;"	v
+s:wipebuf	Session.vim	/^  let s:wipebuf = bufnr('%')$/;"	v
+yS	Session.vim	/^nmap yS <Plug>YSurround$/;"	m
+ySS	Session.vim	/^nmap ySS <Plug>YSsurround$/;"	m
+ySs	Session.vim	/^nmap ySs <Plug>YSsurround$/;"	m
+ys	Session.vim	/^nmap ys <Plug>Ysurround$/;"	m
+yss	Session.vim	/^nmap yss <Plug>Yssurround$/;"	m
+zt	Session.vim	/^normal! zt$/;"	m

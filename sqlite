@@ -1,0 +1,45 @@
+ADD COLUMN
+SQLiteException
+ALTER TABLE
+ASC
+AUTOINCREMENT
+AVG()
+BLOB
+COUNT()
+ContentValues
+Cursor
+DB_NAME
+DB_VERSION
+DESC
+INTEGER
+MAX()
+MIN()
+NUMERIC
+PRIMARY KEY
+REAL
+RENAME TO
+SQLiteDatabase
+SQLiteOpenHelper
+SUM()
+TEXT
+_id
+delete
+execSQL
+groupBy
+insert
+moveToFirst
+moveToLast
+moveToNext
+moveToPrevious
+newVersion
+oldVersion
+onCreate
+onDowngrade
+onUpgrade
+orderBy
+query
+selection
+selectionArgs
+update
+whereArgs
+whereClause

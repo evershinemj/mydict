@@ -1,0 +1,12 @@
+add_info
+del_info
+DataBaseManager
+delete_many
+delete_one
+find
+insert_many
+insert_one
+query_info
+update_info
+update_many
+update_one

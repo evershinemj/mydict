@@ -1,0 +1,9 @@
+ELEMENT
+ATTLIST
+CDATA
+#IMPLIED
+(true|false)
+#REQUIRED
+(undefined|any|none)
+"true"
+"undefined"

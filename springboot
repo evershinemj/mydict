@@ -1,0 +1,9 @@
+@EnableAutoConfiguration
+@SpringBootApplication
+@SpringApplicationConfiguration
+@SpringBootTest
+Application.class
+SpringApplication
+SpringBootServletInitializer
+autoconfigure
+run

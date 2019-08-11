@@ -1,16 +1,17 @@
-author
-{@code true}
-{@code false}
-code
-exception
-link
-param
+@author wangxueming
+@code
+@exception
+@link
+@param
+@return
+@see
+@since
+@throws
+@version
 pre
-return
-see
-since
-throws
-version
-wangxueming
 {@code Iterator}
+{@code false}
+{@code null}
+{@code true}
 {@link Enumeration}
+{@link NullPointerException}

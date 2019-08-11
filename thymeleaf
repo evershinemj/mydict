@@ -1,0 +1,15 @@
+templates
+th:class
+th:href
+th:if
+th:id
+th:include
+th:object
+th:src
+th:text
+th:unless
+th:utext
+thymeleaf
+xhtml
+xmlns
+xmlns:th

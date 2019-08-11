@@ -1,0 +1,17 @@
+$gt
+distinct
+$gte
+$lt
+$lte
+$ne
+count
+deleteMany
+deleteOne
+find
+getCollection
+insertMany
+insertOne
+limit
+sort
+updateMany
+updateOne

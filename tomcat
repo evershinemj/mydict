@@ -1,0 +1,8 @@
+Host
+Connector
+port
+protocol
+appBase
+autoDeploy
+name
+unpackWARs

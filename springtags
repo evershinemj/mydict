@@ -1,0 +1,17 @@
+<sf:checkbox>
+<sf:checkboxes>
+<sf:errors>
+<sf:form>
+<sf:hidden>
+<sf:input>
+<sf:label>
+<sf:option>
+<sf:options>
+<sf:password>
+<sf:radiobutton>
+<sf:radiobuttons>
+<sf:select>
+<sf:textarea>
+commandName
+path
+<s:message code="spittr.welcome" />

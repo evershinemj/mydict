@@ -1,0 +1,13 @@
+axis
+numFeatures
+calcShannonEnt
+currentLabel
+dataSet
+labelCounts
+labels
+numEntries
+prob
+reducedFeatVec
+retDataSet
+shannonEnt
+splitDataSet
