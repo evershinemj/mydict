@@ -40,8 +40,6 @@ Array
 ArrayBlockingQueue
 ArrayDeque
 ArrayDeque<TreeNode>
-setFormatter
-setHandler
 ArrayIndexOutOfBoundsException
 ArrayList
 ArrayStoreException
@@ -804,6 +802,8 @@ setAccessible
 setColor
 setElementAt
 setExecutable
+setFormatter
+setHandler
 setProperty
 setReadable
 setTransactionIsolation
@@ -888,6 +888,7 @@ windowClosed
 windowClosing
 windowDeactivated
 windowDeiconified
+SqlId
 windowIconified
 windowOpened
 write
