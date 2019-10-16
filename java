@@ -1,6 +1,7 @@
 0b
 <? extends Number>
 <? super Integer>
+Subject
 <? super T>
 <T extends A & B & C>
 <T extends Comparable<T>>
@@ -315,6 +316,7 @@ SimpleDateFormat
 SimpleFormatter
 SortedSet
 SourceVersion
+SqlId
 Stack
 Stack<Character>
 Stack<Integer>
@@ -351,7 +353,6 @@ TreeSet
 TypeElement
 TypeVariable
 UnaryOperator
-UnsupportedOperationException
 UnsupportedOperationException
 VariableElement
 Vector
@@ -707,6 +708,7 @@ nextLine
 nextToken
 notify
 notifyAll
+notifyObservers
 now
 null
 numPathStartingAtNode
@@ -775,12 +777,14 @@ readShort
 readUTF
 reflect
 registerDriver
+registerObserver
 release
 remove
 removeElement
 removeElementAt
 removeFirst
 removeLast
+removeObserver
 replace
 replaceAll
 replaceFirst
@@ -888,7 +892,6 @@ windowClosed
 windowClosing
 windowDeactivated
 windowDeiconified
-SqlId
 windowIconified
 windowOpened
 write
